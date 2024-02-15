@@ -1,0 +1,7 @@
+C:\Users\ap550\source\repos\Temperaturas\bin\Debug\Temperaturas.exe.config
+C:\Users\ap550\source\repos\Temperaturas\bin\Debug\Temperaturas.exe
+C:\Users\ap550\source\repos\Temperaturas\bin\Debug\Temperaturas.pdb
+C:\Users\ap550\source\repos\Temperaturas\obj\Debug\Temperaturas.csproj.AssemblyReference.cache
+C:\Users\ap550\source\repos\Temperaturas\obj\Debug\Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\ap550\source\repos\Temperaturas\obj\Debug\Temperaturas.exe
+C:\Users\ap550\source\repos\Temperaturas\obj\Debug\Temperaturas.pdb
